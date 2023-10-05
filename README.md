@@ -1,10 +1,13 @@
-### Hi there 👋
+<h3 align="center">Hello👋</h3>
+- A passionate fullstack developer from NYC
 
-<h3 align="center">A passionate fullstack developer from NYC</h3>
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **at BloomTech**
 
 - 🤝 I’m looking for help with [PickLotteryTickets](https://github.com/Unsignia/Pick-Lottery-Tickets)
+
+- 👯 I’m looking to collaborate on **new projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
